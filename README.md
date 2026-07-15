@@ -1,1 +1,1 @@
-# git-prr
+# git-pr
